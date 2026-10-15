@@ -1,0 +1,23 @@
+{
+  "name": "leverage-playbook",
+  "description": "Build a go-to-market plan through leverage: growth partners, door-openers, leverage hires and position, paid in equity and access, never discounts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ryan Everton",
+    "url": "https://ryaneverton.org"
+  },
+  "homepage": "https://github.com/ryaneverton/leverage-playbook",
+  "repository": "https://github.com/ryaneverton/leverage-playbook",
+  "license": "MIT",
+  "keywords": [
+    "claude",
+    "claude-skills",
+    "agent-skills",
+    "go-to-market",
+    "gtm",
+    "growth",
+    "partnerships",
+    "founders",
+    "strategy"
+  ]
+}

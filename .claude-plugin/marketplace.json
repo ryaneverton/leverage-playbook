@@ -1,0 +1,16 @@
+{
+  "name": "leverage-playbook",
+  "owner": {
+    "name": "Ryan Everton"
+  },
+  "metadata": {
+    "description": "Build a go-to-market plan through leverage: growth partners, door-openers, leverage hires and position, paid in equity and access, never discounts."
+  },
+  "plugins": [
+    {
+      "name": "leverage-playbook",
+      "source": "./",
+      "description": "Build a go-to-market plan through leverage: growth partners, door-openers, leverage hires and position, paid in equity and access, never discounts."
+    }
+  ]
+}
